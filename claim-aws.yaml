@@ -1,4 +1,4 @@
-apiVersion: database.example.org/v1alpha1
+apiVersion: aws.crossplane.io/v1beta1
 kind: PostgreSQLInstance
 metadata:
   name: my-db
